@@ -11,6 +11,10 @@ on:
   push:
     branches:
       - start-markdown
+      
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 # Reference https://docs.github.com/en/actions/security-guides/automatic-token-authentication
 permissions:
