@@ -11,7 +11,10 @@ on:
   push:
     branches:
       - start-markdown
-
+``` 
+$ git init 
+Se inicializó el repositorio Git vacío en /Users/skills/Projects/recipe-repository/.git/ 
+```
 # Reference https://docs.github.com/en/actions/security-guides/automatic-token-authentication
 permissions:
   # Need `contents: read` to checkout the repository
