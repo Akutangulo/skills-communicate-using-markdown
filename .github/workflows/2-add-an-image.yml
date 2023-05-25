@@ -11,7 +11,7 @@ on:
   push:
     branches:
       - start-markdown
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 # Reference https://docs.github.com/en/actions/security-guides/automatic-token-authentication
 permissions:
   # Need `contents: read` to checkout the repository
